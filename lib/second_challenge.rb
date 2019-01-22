@@ -7,6 +7,6 @@ def second_challenge
   }
 
 puts second_challenge.values
-  
+
 
 end
