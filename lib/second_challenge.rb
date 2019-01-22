@@ -6,7 +6,7 @@ def second_challenge
    grains: ["rice", "pasta"]
   }
 
-puts second_challenge.values
+return second_challenge.values
 
 
 end
